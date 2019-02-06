@@ -1,6 +1,6 @@
 {
   "name": "@yoando/repetition-counter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "description": "Count how many times words appear in the input string.",
   "repository": "yoando/repetition-counter",

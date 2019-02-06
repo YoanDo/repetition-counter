@@ -13,6 +13,7 @@ $ npm install @yoando/repetition-counter
 const freqCount = require("@yoando/repetition-counter");
 
 repCounter(string, caseInsensitive)
+*caseInsensitive is true by default*
 
 repCounter("Pump up the jam, pump it up", true);
 //=> { pump: 2, up: 2, the: 1, jam: 1, it: 1 }
