@@ -10,7 +10,7 @@ $ npm install @yoando/repetition-counter
 ```
 
 ## Usage
-const freqCount = require("@yoando/repetition-counter");
+const repCounter = require("@yoando/repetition-counter");
 
 repCounter(string, caseInsensitive)
 *caseInsensitive is true by default*
