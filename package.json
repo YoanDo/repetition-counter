@@ -1,7 +1,18 @@
 {
   "name": "@yoando/repetition-counter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "Count how many times words appear in the input string.",
-  "repository": "yoando/repetition-counter"
+  "repository": "yoando/repetition-counter",
+  "license": "MIT",
+  "author": "Yoan Dorny <y.n.dorny@gmail.com> (http://yoan-dorny.com)",
+  "homepage": "https://github.com/yoanDo/repetition-counter#readme",
+  "keywords": [
+    "word",
+    "counter",
+    "repetition",
+    "npm",
+    "package",
+    "yoando"
+  ]
 }
